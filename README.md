@@ -148,6 +148,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
 - Personal Assistants
   - [hermes-agent](https://github.com/nousresearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
+  - [minibot](https://github.com/sonic182/minibot) - Lightweight self-hosted personal AI assistant for Telegram with tools, memory, scheduling, and Python extensions.
 - Prompt Optimization
   - [dspy](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
 - Data Layer
